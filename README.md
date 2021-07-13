@@ -1,3 +1,5 @@
+您是否应该给项目打开Issue?
+
 - 👋 Hi, I’m @EdisonWangCH
 - 👀 I’m interested in Music, Digital Technology, Reading.
 - 🌱 I’m currently learning Data Science, Web Development.
